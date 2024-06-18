@@ -2,6 +2,6 @@
 - 👀 I’m interested in programming, books, movies, series.
 - 🌱 I’m currently learning python, java, javascript, html, css.
 - 💞️ I’m looking to collaborate on any project I can.
-- 📫 isa_simone@yahoo.com.br
+- 📫 isa_simone@icloud.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: did 1 semester of law before entering IT
